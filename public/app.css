@@ -1,0 +1,23 @@
+img{
+    width: 100%;
+}
+.container{
+    text-align: center;
+}
+.view-options{
+    height: 500px;
+    text-align: left;
+    /*background-color: cornflowerblue;*/
+}
+.selector-color{
+    /*background-color: orange;*/
+}
+.selector-size{
+    /*background-color: orange;*/
+}
+.list-inline-item{
+    margin-bottom: 10px;
+}
+.list-inline{
+    padding: 10px 0px;
+}
