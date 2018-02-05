@@ -1,0 +1,371 @@
+{
+  "productId": 2010278,
+  "name": "Tênis Puma Tsugi Shinsei Raw",
+  "salesChannel": "1",
+  "available": true,
+  "displayMode": "especificacao",
+  "dimensions": [
+    "Tamanho"
+  ],
+  "dimensionsInputType": {
+    "Tamanho": "Combo"
+  },
+  "dimensionsMap": {
+    "Tamanho": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ]
+  },
+  "skus": [
+    {
+      "sku": 2059403,
+      "skuname": "T�nis Puma Tsugi Shinsei Raw - 34",
+      "dimensions": {
+        "Tamanho": "34"
+      },
+      "available": true,
+      "availablequantity": 1,
+      "cacheVersionUsedToCallCheckout": "5c0be8d6b6beb5576a72149f25884c44_geral:202B163A6359F7C1CA34D70F24C906B1",
+      "listPriceFormated": "R$ 549,99",
+      "listPrice": 54999,
+      "taxFormated": "R$ 0,00",
+      "taxAsInt": 0,
+      "bestPriceFormated": "R$ 449,99",
+      "bestPrice": 44999,
+      "installments": 10,
+      "installmentsValue": 4499,
+      "installmentsInsterestRate": 0,
+      "image": "http://artwalk.vteximg.com.br/arquivos/ids/198848-1000-1000/Tenis-Puma-Tsugi-Shinsei-Raw.jpg?v=636410061765970000",
+      "sellerId": "1",
+      "seller": "Artwalk",
+      "measures": {
+        "cubicweight": 2.4862,
+        "height": 13.1,
+        "length": 38.6,
+        "weight": 956,
+        "width": 23.6
+      },
+      "unitMultiplier": 1,
+      "rewardValue": 0
+    },
+    {
+      "sku": 2059404,
+      "skuname": "T�nis Puma Tsugi Shinsei Raw - 35",
+      "dimensions": {
+        "Tamanho": "35"
+      },
+      "available": true,
+      "availablequantity": 2,
+      "cacheVersionUsedToCallCheckout": "5c0be8d6b6beb5576a72149f25884c44_geral:202B163A6359F7C1CA34D70F24C906B1",
+      "listPriceFormated": "R$ 549,99",
+      "listPrice": 54999,
+      "taxFormated": "R$ 0,00",
+      "taxAsInt": 0,
+      "bestPriceFormated": "R$ 449,99",
+      "bestPrice": 44999,
+      "installments": 10,
+      "installmentsValue": 4499,
+      "installmentsInsterestRate": 0,
+      "image": "http://artwalk.vteximg.com.br/arquivos/ids/198848-1000-1000/Tenis-Puma-Tsugi-Shinsei-Raw.jpg?v=636410061765970000",
+      "sellerId": "1",
+      "seller": "Artwalk",
+      "measures": {
+        "cubicweight": 2.4862,
+        "height": 13.1,
+        "length": 38.6,
+        "weight": 956,
+        "width": 23.6
+      },
+      "unitMultiplier": 1,
+      "rewardValue": 0
+    },
+    {
+      "sku": 2059405,
+      "skuname": "T�nis Puma Tsugi Shinsei Raw - 36",
+      "dimensions": {
+        "Tamanho": "36"
+      },
+      "available": true,
+      "availablequantity": 2,
+      "cacheVersionUsedToCallCheckout": "5c0be8d6b6beb5576a72149f25884c44_geral:202B163A6359F7C1CA34D70F24C906B1",
+      "listPriceFormated": "R$ 549,99",
+      "listPrice": 54999,
+      "taxFormated": "R$ 0,00",
+      "taxAsInt": 0,
+      "bestPriceFormated": "R$ 449,99",
+      "bestPrice": 44999,
+      "installments": 10,
+      "installmentsValue": 4499,
+      "installmentsInsterestRate": 0,
+      "image": "http://artwalk.vteximg.com.br/arquivos/ids/198848-1000-1000/Tenis-Puma-Tsugi-Shinsei-Raw.jpg?v=636410061765970000",
+      "sellerId": "1",
+      "seller": "Artwalk",
+      "measures": {
+        "cubicweight": 2.4862,
+        "height": 13.1,
+        "length": 38.6,
+        "weight": 956,
+        "width": 23.6
+      },
+      "unitMultiplier": 1,
+      "rewardValue": 0
+    },
+    {
+      "sku": 2059406,
+      "skuname": "T�nis Puma Tsugi Shinsei Raw - 37",
+      "dimensions": {
+        "Tamanho": "37"
+      },
+      "available": true,
+      "availablequantity": 2,
+      "cacheVersionUsedToCallCheckout": "5c0be8d6b6beb5576a72149f25884c44_geral:202B163A6359F7C1CA34D70F24C906B1",
+      "listPriceFormated": "R$ 549,99",
+      "listPrice": 54999,
+      "taxFormated": "R$ 0,00",
+      "taxAsInt": 0,
+      "bestPriceFormated": "R$ 449,99",
+      "bestPrice": 44999,
+      "installments": 10,
+      "installmentsValue": 4499,
+      "installmentsInsterestRate": 0,
+      "image": "http://artwalk.vteximg.com.br/arquivos/ids/198848-1000-1000/Tenis-Puma-Tsugi-Shinsei-Raw.jpg?v=636410061765970000",
+      "sellerId": "1",
+      "seller": "Artwalk",
+      "measures": {
+        "cubicweight": 2.4862,
+        "height": 13.1,
+        "length": 38.6,
+        "weight": 956,
+        "width": 23.6
+      },
+      "unitMultiplier": 1,
+      "rewardValue": 0
+    },
+    {
+      "sku": 2059407,
+      "skuname": "T�nis Puma Tsugi Shinsei Raw - 38",
+      "dimensions": {
+        "Tamanho": "38"
+      },
+      "available": false,
+      "availablequantity": 0,
+      "cacheVersionUsedToCallCheckout": null,
+      "listPriceFormated": "R$ 0,00",
+      "listPrice": 0,
+      "taxFormated": "R$ 0,00",
+      "taxAsInt": 0,
+      "bestPriceFormated": "R$ 9.999.876,00",
+      "bestPrice": 999987600,
+      "installments": 0,
+      "installmentsValue": 0,
+      "installmentsInsterestRate": null,
+      "image": "http://artwalk.vteximg.com.br/arquivos/ids/198848-1000-1000/Tenis-Puma-Tsugi-Shinsei-Raw.jpg?v=636410061765970000",
+      "sellerId": "1",
+      "seller": "Artwalk",
+      "measures": {
+        "cubicweight": 2.4862,
+        "height": 13.1,
+        "length": 38.6,
+        "weight": 956,
+        "width": 23.6
+      },
+      "unitMultiplier": 1,
+      "rewardValue": 0
+    },
+    {
+      "sku": 2059408,
+      "skuname": "T�nis Puma Tsugi Shinsei Raw - 39",
+      "dimensions": {
+        "Tamanho": "39"
+      },
+      "available": false,
+      "availablequantity": 0,
+      "cacheVersionUsedToCallCheckout": null,
+      "listPriceFormated": "R$ 0,00",
+      "listPrice": 0,
+      "taxFormated": "R$ 0,00",
+      "taxAsInt": 0,
+      "bestPriceFormated": "R$ 9.999.876,00",
+      "bestPrice": 999987600,
+      "installments": 0,
+      "installmentsValue": 0,
+      "installmentsInsterestRate": null,
+      "image": "http://artwalk.vteximg.com.br/arquivos/ids/198848-1000-1000/Tenis-Puma-Tsugi-Shinsei-Raw.jpg?v=636410061765970000",
+      "sellerId": "1",
+      "seller": "Artwalk",
+      "measures": {
+        "cubicweight": 2.4862,
+        "height": 13.1,
+        "length": 38.6,
+        "weight": 956,
+        "width": 23.6
+      },
+      "unitMultiplier": 1,
+      "rewardValue": 0
+    },
+    {
+      "sku": 2059409,
+      "skuname": "T�nis Puma Tsugi Shinsei Raw - 40",
+      "dimensions": {
+        "Tamanho": "40"
+      },
+      "available": false,
+      "availablequantity": 0,
+      "cacheVersionUsedToCallCheckout": null,
+      "listPriceFormated": "R$ 0,00",
+      "listPrice": 0,
+      "taxFormated": "R$ 0,00",
+      "taxAsInt": 0,
+      "bestPriceFormated": "R$ 9.999.876,00",
+      "bestPrice": 999987600,
+      "installments": 0,
+      "installmentsValue": 0,
+      "installmentsInsterestRate": null,
+      "image": "http://artwalk.vteximg.com.br/arquivos/ids/198848-1000-1000/Tenis-Puma-Tsugi-Shinsei-Raw.jpg?v=636410061765970000",
+      "sellerId": "1",
+      "seller": "Artwalk",
+      "measures": {
+        "cubicweight": 2.4862,
+        "height": 13.1,
+        "length": 38.6,
+        "weight": 956,
+        "width": 23.6
+      },
+      "unitMultiplier": 1,
+      "rewardValue": 0
+    },
+    {
+      "sku": 2059410,
+      "skuname": "T�nis Puma Tsugi Shinsei Raw - 41",
+      "dimensions": {
+        "Tamanho": "41"
+      },
+      "available": false,
+      "availablequantity": 0,
+      "cacheVersionUsedToCallCheckout": null,
+      "listPriceFormated": "R$ 0,00",
+      "listPrice": 0,
+      "taxFormated": "R$ 0,00",
+      "taxAsInt": 0,
+      "bestPriceFormated": "R$ 9.999.876,00",
+      "bestPrice": 999987600,
+      "installments": 0,
+      "installmentsValue": 0,
+      "installmentsInsterestRate": null,
+      "image": "http://artwalk.vteximg.com.br/arquivos/ids/198848-1000-1000/Tenis-Puma-Tsugi-Shinsei-Raw.jpg?v=636410061765970000",
+      "sellerId": "1",
+      "seller": "Artwalk",
+      "measures": {
+        "cubicweight": 2.4862,
+        "height": 13.1,
+        "length": 38.6,
+        "weight": 956,
+        "width": 23.6
+      },
+      "unitMultiplier": 1,
+      "rewardValue": 0
+    },
+    {
+      "sku": 2059411,
+      "skuname": "T�nis Puma Tsugi Shinsei Raw - 42",
+      "dimensions": {
+        "Tamanho": "42"
+      },
+      "available": false,
+      "availablequantity": 0,
+      "cacheVersionUsedToCallCheckout": null,
+      "listPriceFormated": "R$ 0,00",
+      "listPrice": 0,
+      "taxFormated": "R$ 0,00",
+      "taxAsInt": 0,
+      "bestPriceFormated": "R$ 9.999.876,00",
+      "bestPrice": 999987600,
+      "installments": 0,
+      "installmentsValue": 0,
+      "installmentsInsterestRate": null,
+      "image": "http://artwalk.vteximg.com.br/arquivos/ids/198848-1000-1000/Tenis-Puma-Tsugi-Shinsei-Raw.jpg?v=636410061765970000",
+      "sellerId": "1",
+      "seller": "Artwalk",
+      "measures": {
+        "cubicweight": 2.4862,
+        "height": 13.1,
+        "length": 38.6,
+        "weight": 956,
+        "width": 23.6
+      },
+      "unitMultiplier": 1,
+      "rewardValue": 0
+    },
+    {
+      "sku": 2059412,
+      "skuname": "T�nis Puma Tsugi Shinsei Raw - 43",
+      "dimensions": {
+        "Tamanho": "43"
+      },
+      "available": false,
+      "availablequantity": 0,
+      "cacheVersionUsedToCallCheckout": null,
+      "listPriceFormated": "R$ 0,00",
+      "listPrice": 0,
+      "taxFormated": "R$ 0,00",
+      "taxAsInt": 0,
+      "bestPriceFormated": "R$ 9.999.876,00",
+      "bestPrice": 999987600,
+      "installments": 0,
+      "installmentsValue": 0,
+      "installmentsInsterestRate": null,
+      "image": "http://artwalk.vteximg.com.br/arquivos/ids/198848-1000-1000/Tenis-Puma-Tsugi-Shinsei-Raw.jpg?v=636410061765970000",
+      "sellerId": "1",
+      "seller": "Artwalk",
+      "measures": {
+        "cubicweight": 2.4862,
+        "height": 13.1,
+        "length": 38.6,
+        "weight": 956,
+        "width": 23.6
+      },
+      "unitMultiplier": 1,
+      "rewardValue": 0
+    },
+    {
+      "sku": 2059413,
+      "skuname": "T�nis Puma Tsugi Shinsei Raw - 44",
+      "dimensions": {
+        "Tamanho": "44"
+      },
+      "available": false,
+      "availablequantity": 0,
+      "cacheVersionUsedToCallCheckout": null,
+      "listPriceFormated": "R$ 0,00",
+      "listPrice": 0,
+      "taxFormated": "R$ 0,00",
+      "taxAsInt": 0,
+      "bestPriceFormated": "R$ 9.999.876,00",
+      "bestPrice": 999987600,
+      "installments": 0,
+      "installmentsValue": 0,
+      "installmentsInsterestRate": null,
+      "image": "http://artwalk.vteximg.com.br/arquivos/ids/198848-1000-1000/Tenis-Puma-Tsugi-Shinsei-Raw.jpg?v=636410061765970000",
+      "sellerId": "1",
+      "seller": "Artwalk",
+      "measures": {
+        "cubicweight": 2.4862,
+        "height": 13.1,
+        "length": 38.6,
+        "weight": 956,
+        "width": 23.6
+      },
+      "unitMultiplier": 1,
+      "rewardValue": 0
+    }
+  ]
+}

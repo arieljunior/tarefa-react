@@ -11,7 +11,9 @@ export default props =>(
                     </button>
                 </div>
                 <div className="modal-body">
-                    <p>{props.mensage}</p>
+                    <p>Nome: {props.name}</p>
+                    <p>Tamanho: {props.size}</p>
+                    <p>Codigo do produto: {props.cod}</p>
                 </div>
             </div>
         </div>
