@@ -1,3 +1,8 @@
+body{
+    /*background: linear-gradient(to bottom, #99ccff 0%, #9999ff 100%);*/
+    background-attachment: fixed;
+    font-family: 'Rubik', sans-serif;
+}
 img{
     width: 100%;
 }
@@ -14,6 +19,77 @@ img{
 .list-inline{
     padding: 10px 0px;
 }
-.btn-teste:active{
-    background-color: red;
+.hover-info-btn:hover + #info{
+    display: block;
+}
+#info{
+    position: absolute;
+    display: none;
+}
+.title{
+    /*margin-top: 10px;
+    margin-bottom: 7%;
+    padding: 0px;
+    background-color: #666666;
+    color: white;*/
+}
+.h3{
+    margin: 0px 10px 0px 10px;
+    font-family: 'Coiny', cursive;
+}
+.product-id{
+    margin: 0px;
+    padding: 0px 0px 0px 10px;
+    font-size: 13px;
+}
+.circle{
+    background-color: #4da6ff;
+    border-radius: 60%;
+	color: white;
+    padding: 1px 9px;
+    text-align: center;
+    font-size: 15px;
+}
+.choose{
+    margin: 15px 0px;
+    padding: 15px 0px;
+    border-radius: 10px;
+}
+.container{
+    margin-top: 4%;
+}
+.list-inline{
+    margin-bottom: 0px;
+}
+ul .btn{
+    border: 1px solid #4da6ff;
+    background-color: white;
+    
+}
+ul .bt-hover:hover{
+    background-color: #4da6ff;
+}
+ul .active{
+    background-color: #4da6ff;
+    border: 1px solid black;
+}
+.price{
+    text-align: center;
+    font-size: 13px;
+    margin: 0px;
+}
+.old-price{
+    text-decoration: line-through;
+}
+.new-price{
+    font-weight: bold;
+    font-size: xx-large;
+    display: block;
+}
+.choices{
+    display: block;
+}
+#info{
+    background-color: #404040;
+    color: white;
 }

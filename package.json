@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "express": "^4.15.2",
+    "feather-icons": "^4.5.0",
     "jquery": "^3.2.1",
     "popper.js": "^1.12.9"
   }
