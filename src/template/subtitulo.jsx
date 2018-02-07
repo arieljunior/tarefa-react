@@ -1,5 +1,10 @@
 import React from 'react'
 
 export default props => (
-    <h5 className="border-bottom border-info">{props.titulo}</h5>
+    <div className="">
+        <h5 className="border-bottom">
+            <span className="circle">{props.number}</span>
+            {props.titulo}
+        </h5>
+    </div>
 )
