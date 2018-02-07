@@ -6,7 +6,7 @@ import React from 'react'
 
 import SelectorColor from '../selector_color/selector_color'
 import SelectorSize from '../selector_size/selector_size'
-import ConfirmPurchase from '../purchase/purchase'
+import Purchase from '../purchase/purchase'
 import ViewProduct from '../view_product/view_product'
 import Popup from '../template/success_purchase'
 import Title from '../template/title'
@@ -67,7 +67,7 @@ export default class App extends React.Component {
                             <SelectorSize handleChangeSize={this.handleChangeSize} sizes={this.state.sizes} 
                             sizeSelected= {this.state.field.sizeSelected} withoutStock={this.state.withoutStock}/>
                         </div>
-                        <ConfirmPurchase size={this.state.field.sizeSelected}
+                        <Purchase size={this.state.field.sizeSelected}
                             old_price={Data.skus[0].listPriceFormated}
                             new_price={Data.skus[0].bestPriceFormated}
                             color={this.state.colorField.colorSelected}
